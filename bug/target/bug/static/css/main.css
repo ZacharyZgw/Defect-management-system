@@ -1,0 +1,17 @@
+body{
+    font-family: "Microsoft YaHei","黑体","宋体",sans-serif;
+    padding-top: 50px;
+}
+nav #nav-header{
+    margin-bottom: 0;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.navbar-default .navbar-brand {
+    color: #40d2b1;
+    font-size: 28px;
+}
+.content_container{
+margin-top: 20px;
+}
